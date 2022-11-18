@@ -2,3 +2,5 @@ log 1
 File Created at remote
 log 2
 File Updated on local machine
+log 3
+File updated on remote
